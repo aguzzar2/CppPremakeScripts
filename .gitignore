@@ -4,6 +4,7 @@
 /.vscode
 /build
 /dependencies
+/src
 
 #Extensions
 **.sln
