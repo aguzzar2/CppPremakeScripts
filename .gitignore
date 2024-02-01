@@ -1,0 +1,12 @@
+/.vs
+/.git
+/__pychace__
+/.vscode
+/build
+/dependencies
+
+#Extensions
+**.sln
+**.vcxproj
+**.vcxproj.user
+
