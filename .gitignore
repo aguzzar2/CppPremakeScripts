@@ -9,4 +9,9 @@
 **.sln
 **.vcxproj
 **.vcxproj.user
+**.exe
+**.ilk
+**.obj
+**.ilk
+**.pdb
 
